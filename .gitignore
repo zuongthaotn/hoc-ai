@@ -1,7 +1,8 @@
 .venv
+venv
 chromaDB
 models/llm/*
 models/embedding/*
-__pycache__
+**/__pycache__
 agents/__pycache__
 models
